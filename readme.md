@@ -7,5 +7,6 @@ There are a series of tutorials listed below that will walk you through the proc
 
 *  [Manipulating Data with PowerApps](docs/manipulating-data.md)
 *  [Creating Surveys with PowerApps](docs/surveys.md)
+*  [Notifications with PowerApps](docs/notifications.md)
 *  [Making Control Panels with PowerApps](docs/control-panels-1.md)
 *  [Advanced Control Panels with PowerApps](docs/control-panels-2.md)
